@@ -1,7 +1,7 @@
 # Security Tips: Protecting Sensitive Information
-This is the repository for the LinkedIn Learning course Security Tips: Protecting Sensitive Information. The full course is available from [LinkedIn Learning][lil-thumbnail-url].
+This is the repository for the LinkedIn Learning course Security Tips: Protecting Sensitive Information. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Security Tips: Protecting Sensitive Information][lil-thumbnail-url] 
 
 While we often think of our communications channels as secure, it never hurts to add an extra layer of protection when working with sensitive information. Whether it’s personal documents, trade secrets, or any other kind of information that could be misused in the wrong hands, knowing how to secure data is a skill that anyone can benefit from. Learn tips to protect and exchange your sensitive information using encryption and other tools. In this course, instructor Scott Simpson discusses the basics of encryption and demonstrates how to protect sensitive information using encrypted files, disks, and disk images. He introduces encryption tools for every operating system—including BitLocker, FileVault, and LUKS—as well as the cross-platform VeraCrypt app. Plus, learn best practices for multilayer security, web connections, VPN, email, and cloud storage.
 
