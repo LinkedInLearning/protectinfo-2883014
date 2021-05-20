@@ -36,7 +36,7 @@ Scott Simpson
 
                             
 
-Check out my other courses on [LinkedIn Learning]https://www.linkedin.com/learning/instructors/scott-simpson.
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson).
 
-[lil-thumbnail-url]: https://www.linkedin.com/learning/security-tips-protecting-sensitive-information
+[lil-course-url]: https://www.linkedin.com/learning/security-tips-protecting-sensitive-information
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2883014/2883014-1621363636089-16x9.jpg
