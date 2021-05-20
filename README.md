@@ -1,10 +1,9 @@
 # Security Tips: Protecting Sensitive Information
-This is the repository for the LinkedIn Learning course Security Tips: Protecting Sensitive Information. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Security Tips: Protecting Sensitive Information. The full course is available from [LinkedIn Learning][lil-thumbnail-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Security Tips: Protecting Sensitive Information][lil-thumbnail-url] 
 
 While we often think of our communications channels as secure, it never hurts to add an extra layer of protection when working with sensitive information. Whether it’s personal documents, trade secrets, or any other kind of information that could be misused in the wrong hands, knowing how to secure data is a skill that anyone can benefit from. Learn tips to protect and exchange your sensitive information using encryption and other tools. In this course, instructor Scott Simpson discusses the basics of encryption and demonstrates how to protect sensitive information using encrypted files, disks, and disk images. He introduces encryption tools for every operating system—including BitLocker, FileVault, and LUKS—as well as the cross-platform VeraCrypt app. Plus, learn best practices for multilayer security, web connections, VPN, email, and cloud storage.
-
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -24,16 +23,20 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
+## Installing
+1. To use these exercise files, you must have the following installed:
+	- [list of requirements for course]
+2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+3. [Course-specific instructions]
+
+
 ### Instructor
 
-**Scott Simpson**
+Scott Simpson 
 
-_Senior Staff Instructor at LinkedIn Learning_
+                            
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson?u=104).
+Check out my other courses on [LinkedIn Learning]https://www.linkedin.com/learning/instructors/scott-simpson.
 
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/security-tips-protecting-sensitive-information?u=104
+[lil-thumbnail-url]: https://www.linkedin.com/learning/security-tips-protecting-sensitive-information
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2883014/2883014-1621363636089-16x9.jpg
