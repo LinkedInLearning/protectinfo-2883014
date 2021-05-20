@@ -37,4 +37,3 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/security-tips-protecting-sensitive-information?u=104
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2883014/2883014-1621363636089-16x9.jpg
-
